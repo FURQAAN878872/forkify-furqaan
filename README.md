@@ -6,7 +6,7 @@ Forkify is more than a recipe website—it is a practical JavaScript application
 
 ## 🚀 Live Demo
 
-[Live Demo](https://forkify-furqaan.netlify.app/)p
+[Live Demo](https://forkify-furqaan.netlify.app/)
 
 ## 📌 Features
 
